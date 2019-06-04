@@ -1,0 +1,7 @@
+C:\Vikram\Day2\InheritanceExamples2\obj\Debug\InheritanceExamples2.csprojAssemblyReference.cache
+C:\Vikram\Day2\InheritanceExamples2\obj\Debug\InheritanceExamples2.csproj.CoreCompileInputs.cache
+C:\Vikram\Day2\InheritanceExamples2\bin\Debug\InheritanceExamples2.exe.config
+C:\Vikram\Day2\InheritanceExamples2\bin\Debug\InheritanceExamples2.exe
+C:\Vikram\Day2\InheritanceExamples2\bin\Debug\InheritanceExamples2.pdb
+C:\Vikram\Day2\InheritanceExamples2\obj\Debug\InheritanceExamples2.exe
+C:\Vikram\Day2\InheritanceExamples2\obj\Debug\InheritanceExamples2.pdb

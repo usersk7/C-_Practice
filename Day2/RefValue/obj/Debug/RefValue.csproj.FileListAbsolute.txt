@@ -1,0 +1,6 @@
+C:\Vikram\Day2\RefValue\bin\Debug\RefValue.exe.config
+C:\Vikram\Day2\RefValue\bin\Debug\RefValue.exe
+C:\Vikram\Day2\RefValue\bin\Debug\RefValue.pdb
+C:\Vikram\Day2\RefValue\obj\Debug\RefValue.csproj.CoreCompileInputs.cache
+C:\Vikram\Day2\RefValue\obj\Debug\RefValue.exe
+C:\Vikram\Day2\RefValue\obj\Debug\RefValue.pdb
