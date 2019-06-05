@@ -1,0 +1,7 @@
+C:\Vikram\Day3\CollectionExample\bin\Debug\CollectionExample.exe.config
+C:\Vikram\Day3\CollectionExample\bin\Debug\CollectionExample.exe
+C:\Vikram\Day3\CollectionExample\bin\Debug\CollectionExample.pdb
+C:\Vikram\Day3\CollectionExample\obj\Debug\CollectionExample.csprojAssemblyReference.cache
+C:\Vikram\Day3\CollectionExample\obj\Debug\CollectionExample.csproj.CoreCompileInputs.cache
+C:\Vikram\Day3\CollectionExample\obj\Debug\CollectionExample.exe
+C:\Vikram\Day3\CollectionExample\obj\Debug\CollectionExample.pdb

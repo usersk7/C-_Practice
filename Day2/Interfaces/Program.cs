@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//in this example single interfaces are created 
 namespace Interfaces1
 {
     class Program
     {
-        static void Main1()
+        static void Main8()
         {
             Class1 o = new Class1();
             o.Delete();
@@ -57,11 +58,13 @@ namespace Interfaces1
     }
 }
 
+//in this example two interfaces are created 
 namespace Interfaces2
 {
     class Program
     {
-        static void Main2()
+        
+        static void Main1()
         {
             Class1 o = new Class1();
 
@@ -102,7 +105,7 @@ namespace Interfaces2
 
         }
 
-        void IDbFunctions.Delete()
+        void IDbFunctions.Delete()   //if class having two interface as---->> interfacename.methodname
         {
             Console.WriteLine("Class1 IDb.Delete");
         }
@@ -147,12 +150,14 @@ namespace Interfaces2
 }
 
 
+//two class ARE using same interface 
 namespace Interfaces3
 {
     class Program
     {
         static void Main3()
         {
+
 
             Class1 obj1 = new Class1();
             Class2 obj2 = new Class2();
@@ -231,7 +236,7 @@ namespace Interfaces4
 {
     class Program
     {
-        static void Main4()
+        static void Main()
         {
 
             Class1 obj1 = new Class1();
@@ -239,11 +244,18 @@ namespace Interfaces4
             CallInsert(obj1);
             CallInsert(obj2);
             Console.ReadLine();
+
+
+
+
         }
-        static void CallInsert(IDbFunctions objIDb)
+        static void CallInsert(IDbFunctions objIDb) //passing diffrent class object to the same type of iterface
         {
             objIDb.Insert();
         }
+
+        
+
     }
 
     public interface IDbFunctions
@@ -305,7 +317,7 @@ namespace Interfaces5
 {
     class Program
     {
-        static void Main()
+        static void Main7()
         {
             Class1 o = new Class1();
 

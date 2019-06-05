@@ -29,13 +29,19 @@ namespace InheritanceExamples2
         static void Main()
         {
             Class1 o2 = new Class1(10);
+            Console.WriteLine(o2.P1);
+           // o2.P1 = 100;
 
-            //o2.P1 = 100;
 
-
-            //AbstractClass o = new AbstractClass();
+            //AbstractClass o = new AbstractClass(); this is not happen 
             DerivedClass o = new DerivedClass();
             o.Display();
+            Console.WriteLine();
+
+            Derived2 derived2 = new Derived2();
+            derived2.Display();
+
+
             Console.ReadLine();
 
         }
@@ -62,7 +68,7 @@ namespace InheritanceExamples2
     {
         public override void Display()
         {
-            
+            Console.WriteLine("this is pure override display");
         }
         public override void Show()
         {

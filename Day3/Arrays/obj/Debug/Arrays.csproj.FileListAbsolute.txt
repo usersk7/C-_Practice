@@ -1,0 +1,6 @@
+C:\Vikram\Day3\Arrays\bin\Debug\Arrays.exe.config
+C:\Vikram\Day3\Arrays\bin\Debug\Arrays.exe
+C:\Vikram\Day3\Arrays\bin\Debug\Arrays.pdb
+C:\Vikram\Day3\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Vikram\Day3\Arrays\obj\Debug\Arrays.exe
+C:\Vikram\Day3\Arrays\obj\Debug\Arrays.pdb

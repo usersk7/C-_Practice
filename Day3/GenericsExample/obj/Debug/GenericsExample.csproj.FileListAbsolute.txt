@@ -1,0 +1,7 @@
+C:\Vikram\Day3\GenericsExample\bin\Debug\GenericsExample.exe.config
+C:\Vikram\Day3\GenericsExample\bin\Debug\GenericsExample.exe
+C:\Vikram\Day3\GenericsExample\bin\Debug\GenericsExample.pdb
+C:\Vikram\Day3\GenericsExample\obj\Debug\GenericsExample.csprojAssemblyReference.cache
+C:\Vikram\Day3\GenericsExample\obj\Debug\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Vikram\Day3\GenericsExample\obj\Debug\GenericsExample.exe
+C:\Vikram\Day3\GenericsExample\obj\Debug\GenericsExample.pdb
