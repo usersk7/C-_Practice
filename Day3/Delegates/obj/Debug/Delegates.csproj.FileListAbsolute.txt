@@ -1,0 +1,7 @@
+C:\Vikram\Day3\Delegates\bin\Debug\Delegates.exe.config
+C:\Vikram\Day3\Delegates\bin\Debug\Delegates.exe
+C:\Vikram\Day3\Delegates\bin\Debug\Delegates.pdb
+C:\Vikram\Day3\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Vikram\Day3\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Vikram\Day3\Delegates\obj\Debug\Delegates.exe
+C:\Vikram\Day3\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,7 @@
+c:\vikram\Day4\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+c:\vikram\Day4\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+c:\vikram\Day4\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+c:\vikram\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+c:\vikram\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+c:\vikram\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+c:\vikram\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
