@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Emps diffgr:id="Emps1" msdata:rowOrder="0">
+      <EmpNo>2</EmpNo>
+      <Name>POOJA</Name>
+      <Basic>40000.00</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps2" msdata:rowOrder="1">
+      <EmpNo>3</EmpNo>
+      <Name>RADHIKA</Name>
+      <Basic>45000.00</Basic>
+      <DeptNo>30</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps3" msdata:rowOrder="2">
+      <EmpNo>4</EmpNo>
+      <Name>Akki</Name>
+      <Basic>60.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps4" msdata:rowOrder="3">
+      <EmpNo>6</EmpNo>
+      <Name>D'Souza</Name>
+      <Basic>12345.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps5" msdata:rowOrder="4">
+      <EmpNo>7</EmpNo>
+      <Name>D'Silva</Name>
+      <Basic>12345.00</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps7" msdata:rowOrder="6" diffgr:hasChanges="modified">
+      <EmpNo>100</EmpNo>
+      <Name> okay</Name>
+      <Basic>12345.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps8" msdata:rowOrder="7" diffgr:hasChanges="modified">
+      <EmpNo>200</EmpNo>
+      <Name>okay</Name>
+      <Basic>12345.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+      <EmpNo>300</EmpNo>
+      <Name>added</Name>
+      <Basic>12345</Basic>
+      <DeptNo>20</DeptNo>
+    </Emps>
+    <Deps diffgr:id="Deps1" msdata:rowOrder="0">
+      <DeptNo>10</DeptNo>
+      <DeptName>SALES</DeptName>
+    </Deps>
+    <Deps diffgr:id="Deps2" msdata:rowOrder="1">
+      <DeptNo>20</DeptNo>
+      <DeptName>IT</DeptName>
+    </Deps>
+    <Deps diffgr:id="Deps3" msdata:rowOrder="2">
+      <DeptNo>30</DeptNo>
+      <DeptName>HR</DeptName>
+    </Deps>
+    <Deps diffgr:id="Deps4" msdata:rowOrder="3">
+      <DeptNo>40</DeptNo>
+      <DeptName>ADMIN</DeptName>
+    </Deps>
+  </NewDataSet>
+  <diffgr:before>
+    <Emps diffgr:id="Emps6" msdata:rowOrder="5">
+      <EmpNo>10</EmpNo>
+      <Name>new emp</Name>
+      <Basic>12000.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps7" msdata:rowOrder="6">
+      <EmpNo>100</EmpNo>
+      <Name>not okay</Name>
+      <Basic>12345.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+    <Emps diffgr:id="Emps8" msdata:rowOrder="7">
+      <EmpNo>200</EmpNo>
+      <Name>not okay</Name>
+      <Basic>12345.00</Basic>
+      <DeptNo>10</DeptNo>
+    </Emps>
+  </diffgr:before>
+</diffgr:diffgram>

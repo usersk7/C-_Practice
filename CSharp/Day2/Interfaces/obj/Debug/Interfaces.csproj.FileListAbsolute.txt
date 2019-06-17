@@ -1,0 +1,14 @@
+C:\Vikram\Day2\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Vikram\Day2\Interfaces\bin\Debug\Interfaces.exe
+C:\Vikram\Day2\Interfaces\bin\Debug\Interfaces.pdb
+C:\Vikram\Day2\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Vikram\Day2\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Vikram\Day2\Interfaces\obj\Debug\Interfaces.exe
+C:\Vikram\Day2\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day2\Interfaces\obj\Debug\Interfaces.pdb

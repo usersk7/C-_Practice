@@ -1,0 +1,13 @@
+C:\Vikram\Day2\RefAndValue\bin\Debug\RefAndValue.exe.config
+C:\Vikram\Day2\RefAndValue\bin\Debug\RefAndValue.exe
+C:\Vikram\Day2\RefAndValue\bin\Debug\RefAndValue.pdb
+C:\Vikram\Day2\RefAndValue\obj\Debug\RefAndValue.csproj.CoreCompileInputs.cache
+C:\Vikram\Day2\RefAndValue\obj\Debug\RefAndValue.exe
+C:\Vikram\Day2\RefAndValue\obj\Debug\RefAndValue.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\bin\Debug\RefAndValue.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\bin\Debug\RefAndValue.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\bin\Debug\RefAndValue.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\obj\Debug\RefAndValue.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\obj\Debug\RefAndValue.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\obj\Debug\RefAndValue.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day2\RefAndValue\obj\Debug\RefAndValue.pdb

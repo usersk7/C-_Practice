@@ -1,0 +1,13 @@
+c:\vikram\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.exe.config
+c:\vikram\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.exe
+c:\vikram\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.pdb
+c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.csproj.CoreCompileInputs.cache
+c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.exe
+c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.pdb

@@ -1,0 +1,24 @@
+1)
+public int Add(int a, int b)
+
+WpfApp(Consumer)
+Two textboxes and a label
+
+2) WebService (Publisher)
+public MyClass GetMyClassObject()
+
+WpfApp(Consumer)
+Create Labels for displaying properties
+
+3)WebService (Publisher)
+public DataSet GetDs()
+
+WpfApp(Consumer)
+Display recs in a DataGrid
+
+4)WebService (Publisher)
+public void UpdateDs(DataSet ds)
+
+WpfApp(Consumer)
+call the method, passing ds to it
+

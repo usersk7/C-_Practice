@@ -1,0 +1,6 @@
+c:\Vikram\Day5\PartialClassesAndMethods\obj\Debug\PartialClassesAndMethods.csproj.CoreCompileInputs.cache
+c:\Vikram\Day5\PartialClassesAndMethods\bin\Debug\PartialClassesAndMethods.exe.config
+c:\Vikram\Day5\PartialClassesAndMethods\bin\Debug\PartialClassesAndMethods.exe
+c:\Vikram\Day5\PartialClassesAndMethods\bin\Debug\PartialClassesAndMethods.pdb
+c:\Vikram\Day5\PartialClassesAndMethods\obj\Debug\PartialClassesAndMethods.exe
+c:\Vikram\Day5\PartialClassesAndMethods\obj\Debug\PartialClassesAndMethods.pdb

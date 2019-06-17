@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C4545322-708F-43D9-870A-17077F8F47DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{D25DD70E-FDFA-47B7-AC33-8A10FD183F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4545322-708F-43D9-870A-17077F8F47DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4545322-708F-43D9-870A-17077F8F47DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4545322-708F-43D9-870A-17077F8F47DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4545322-708F-43D9-870A-17077F8F47DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25DD70E-FDFA-47B7-AC33-8A10FD183F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25DD70E-FDFA-47B7-AC33-8A10FD183F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25DD70E-FDFA-47B7-AC33-8A10FD183F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25DD70E-FDFA-47B7-AC33-8A10FD183F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5000E3-2BF2-48D3-AFCD-FF6E88937AB2}
+	EndGlobalSection
+EndGlobal

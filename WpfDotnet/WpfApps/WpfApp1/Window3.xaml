@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window3" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblSample" Content="Sample Text" HorizontalAlignment="Left" Margin="91,37,0,0" VerticalAlignment="Top" BorderBrush="Black"/>
+        <RadioButton GroupName="fore" x:Name="radioButton" Content="Red" HorizontalAlignment="Left" Margin="91,139,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton GroupName="fore" x:Name="radioButton1" Content="Pink" HorizontalAlignment="Left" Margin="91,172,0,0" VerticalAlignment="Top" Checked="RadioButton1_Checked"/>
+        <RadioButton GroupName="fore" x:Name="radioButton2" Content="Blue" HorizontalAlignment="Left" Margin="91,212,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="back" x:Name="radioButton3" Content="Orange" HorizontalAlignment="Left" Margin="356,139,0,0" VerticalAlignment="Top" Checked="RadioButton3_Checked"/>
+        <RadioButton GroupName="back" x:Name="radioButton4" Content="Maroon" HorizontalAlignment="Left" Margin="356,172,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="back" x:Name="radioButton5" Content="Yellow" HorizontalAlignment="Left" Margin="356,212,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

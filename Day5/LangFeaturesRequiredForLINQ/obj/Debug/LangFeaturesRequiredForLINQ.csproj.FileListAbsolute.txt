@@ -1,7 +1,0 @@
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.exe.config
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.exe
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\bin\Debug\LangFeaturesRequiredForLINQ.pdb
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.csprojAssemblyReference.cache
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.csproj.CoreCompileInputs.cache
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.exe
-c:\vikram\Day5\LangFeaturesRequiredForLINQ\obj\Debug\LangFeaturesRequiredForLINQ.pdb

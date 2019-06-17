@@ -1,6 +1,0 @@
-c:\Vikram\Day4\Lambdas\bin\Debug\Lambdas.exe.config
-c:\Vikram\Day4\Lambdas\bin\Debug\Lambdas.exe
-c:\Vikram\Day4\Lambdas\bin\Debug\Lambdas.pdb
-c:\Vikram\Day4\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
-c:\Vikram\Day4\Lambdas\obj\Debug\Lambdas.exe
-c:\Vikram\Day4\Lambdas\obj\Debug\Lambdas.pdb

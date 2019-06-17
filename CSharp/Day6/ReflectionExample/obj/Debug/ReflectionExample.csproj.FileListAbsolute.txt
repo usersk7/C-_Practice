@@ -1,0 +1,7 @@
+c:\vikram\Day6_b\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+c:\vikram\Day6_b\ReflectionExample\bin\Debug\ReflectionExample.exe
+c:\vikram\Day6_b\ReflectionExample\bin\Debug\ReflectionExample.pdb
+c:\vikram\Day6_b\ReflectionExample\obj\Debug\ReflectionExample.csprojAssemblyReference.cache
+c:\vikram\Day6_b\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+c:\vikram\Day6_b\ReflectionExample\obj\Debug\ReflectionExample.exe
+c:\vikram\Day6_b\ReflectionExample\obj\Debug\ReflectionExample.pdb

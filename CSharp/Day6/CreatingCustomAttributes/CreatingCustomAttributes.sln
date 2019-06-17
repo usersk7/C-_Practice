@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingCustomAttributes", "CreatingCustomAttributes.csproj", "{D29B60DB-297A-44A4-9A7D-B5A1AB3129C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCustomAttributes", "..\TestCustomAttributes\TestCustomAttributes.csproj", "{E5B4A548-A945-4713-B573-61B946A1C44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29B60DB-297A-44A4-9A7D-B5A1AB3129C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29B60DB-297A-44A4-9A7D-B5A1AB3129C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29B60DB-297A-44A4-9A7D-B5A1AB3129C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29B60DB-297A-44A4-9A7D-B5A1AB3129C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B4A548-A945-4713-B573-61B946A1C44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B4A548-A945-4713-B573-61B946A1C44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B4A548-A945-4713-B573-61B946A1C44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B4A548-A945-4713-B573-61B946A1C44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D9E17D-EC9B-46B8-9D55-A9F5FE9A97D4}
+	EndGlobalSection
+EndGlobal

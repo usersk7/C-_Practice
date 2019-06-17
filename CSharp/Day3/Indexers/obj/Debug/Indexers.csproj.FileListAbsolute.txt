@@ -1,0 +1,14 @@
+C:\Vikram\Day3\Indexers\bin\Debug\Indexers.exe.config
+C:\Vikram\Day3\Indexers\bin\Debug\Indexers.exe
+C:\Vikram\Day3\Indexers\bin\Debug\Indexers.pdb
+C:\Vikram\Day3\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Vikram\Day3\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Vikram\Day3\Indexers\obj\Debug\Indexers.exe
+C:\Vikram\Day3\Indexers\obj\Debug\Indexers.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\obj\Debug\Indexers.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\bin\Debug\Indexers.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\bin\Debug\Indexers.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day3\Indexers\obj\Debug\Indexers.exe

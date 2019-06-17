@@ -1,0 +1,14 @@
+c:\Vikram\Day5\LINQExamples\bin\Debug\LINQExamples.exe.config
+c:\Vikram\Day5\LINQExamples\bin\Debug\LINQExamples.exe
+c:\Vikram\Day5\LINQExamples\bin\Debug\LINQExamples.pdb
+c:\Vikram\Day5\LINQExamples\obj\Debug\LINQExamples.csprojAssemblyReference.cache
+c:\Vikram\Day5\LINQExamples\obj\Debug\LINQExamples.csproj.CoreCompileInputs.cache
+c:\Vikram\Day5\LINQExamples\obj\Debug\LINQExamples.exe
+c:\Vikram\Day5\LINQExamples\obj\Debug\LINQExamples.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\obj\Debug\LINQExamples.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\obj\Debug\LINQExamples.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\obj\Debug\LINQExamples.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\bin\Debug\LINQExamples.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\bin\Debug\LINQExamples.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\bin\Debug\LINQExamples.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day5\LINQExamples\obj\Debug\LINQExamples.exe

@@ -1,7 +1,0 @@
-c:\vikram\Day4\EventHandling\bin\Debug\EventHandling.exe.config
-c:\vikram\Day4\EventHandling\bin\Debug\EventHandling.exe
-c:\vikram\Day4\EventHandling\bin\Debug\EventHandling.pdb
-c:\vikram\Day4\EventHandling\obj\Debug\EventHandling.csprojAssemblyReference.cache
-c:\vikram\Day4\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
-c:\vikram\Day4\EventHandling\obj\Debug\EventHandling.exe
-c:\vikram\Day4\EventHandling\obj\Debug\EventHandling.pdb

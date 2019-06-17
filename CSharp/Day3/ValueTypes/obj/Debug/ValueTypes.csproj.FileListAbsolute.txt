@@ -1,0 +1,13 @@
+C:\Vikram\Day3\ValueTypes\bin\Debug\ValueTypes.exe.config
+C:\Vikram\Day3\ValueTypes\bin\Debug\ValueTypes.exe
+C:\Vikram\Day3\ValueTypes\bin\Debug\ValueTypes.pdb
+C:\Vikram\Day3\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Vikram\Day3\ValueTypes\obj\Debug\ValueTypes.exe
+C:\Vikram\Day3\ValueTypes\obj\Debug\ValueTypes.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\bin\Debug\ValueTypes.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\bin\Debug\ValueTypes.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\bin\Debug\ValueTypes.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\obj\Debug\ValueTypes.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\obj\Debug\ValueTypes.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day3\ValueTypes\obj\Debug\ValueTypes.pdb

@@ -1,0 +1,52 @@
+Employee.cs
+
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+
+namespace MvcApplication1.Models
+
+    public partial class Employee
+    {
+        [Required]
+        [StringLength(50)]
+        public string Name { get; set; }
+
+        [Required]
+        public decimal Basic { get; set; }
+
+        [DisplayName("Department")]
+        [Required]
+        public int DeptNo{ get; set; }
+    }
+
+}
+
+
+
+--------------------------------------------
+EmployeeMetaData.cs
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+
+namespace MvcApplication1.Models
+{
+    [MetadataType(typeof(EmployeeMetaData))]
+    public partial class Employee
+    {
+    }
+
+    public class EmployeeMetaData
+    {
+        [Required]
+        [StringLength(50)]
+        public string Name { get; set; }
+
+        [Required]
+        public decimal Basic { get; set; }
+
+        [DisplayName("Department")]
+        [Required]
+        public int DeptNo{ get; set; }
+    }
+
+}

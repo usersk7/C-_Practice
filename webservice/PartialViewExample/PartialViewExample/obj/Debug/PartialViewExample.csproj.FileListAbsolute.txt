@@ -1,0 +1,273 @@
+C:\Vikram\DotNet\PartialViewExample\bin\ApplicationInsights.config
+C:\Vikram\DotNet\PartialViewExample\bin\PartialViewExample.dll.config
+C:\Vikram\DotNet\PartialViewExample\bin\PartialViewExample.dll
+C:\Vikram\DotNet\PartialViewExample\bin\PartialViewExample.pdb
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\csc.exe
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\csc.exe.config
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\csc.rsp
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\csi.exe
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\csi.exe.config
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\csi.rsp
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.AppContext.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Console.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.IO.Compression.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.IO.Pipes.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.AccessControl.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.Claims.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.ValueTuple.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Xml.XPath.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\vbc.exe
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\vbc.exe.config
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\vbc.rsp
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\VBCSCompiler.exe
+C:\Vikram\DotNet\PartialViewExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Vikram\DotNet\PartialViewExample\bin\Antlr3.Runtime.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.Web.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.ApplicationInsights.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Vikram\DotNet\PartialViewExample\bin\Newtonsoft.Json.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Helpers.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Mvc.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Optimization.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Razor.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.WebPages.Deployment.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.WebPages.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.WebPages.Razor.dll
+C:\Vikram\DotNet\PartialViewExample\bin\WebGrease.dll
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Helpers.xml
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Mvc.xml
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Optimization.xml
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.Razor.xml
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.WebPages.xml
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.WebPages.Deployment.xml
+C:\Vikram\DotNet\PartialViewExample\bin\System.Web.WebPages.Razor.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Newtonsoft.Json.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Antlr3.Runtime.pdb
+C:\Vikram\DotNet\PartialViewExample\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.AI.Web.xml
+C:\Vikram\DotNet\PartialViewExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Vikram\DotNet\PartialViewExample\obj\Debug\PartialViewExample.csprojAssemblyReference.cache
+C:\Vikram\DotNet\PartialViewExample\obj\Debug\PartialViewExample.csproj.CoreCompileInputs.cache
+C:\Vikram\DotNet\PartialViewExample\obj\Debug\PartialViewExample.csproj.CopyComplete
+C:\Vikram\DotNet\PartialViewExample\obj\Debug\PartialViewExample.dll
+C:\Vikram\DotNet\PartialViewExample\obj\Debug\PartialViewExample.pdb
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\ApplicationInsights.config
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\PartialViewExample.dll.config
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\PartialViewExample.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\PartialViewExample.pdb
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\csc.exe
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\csc.exe.config
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\csc.rsp
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\csi.exe
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\csi.exe.config
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\csi.rsp
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.AppContext.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Console.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.Compression.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Claims.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.ValueTuple.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\vbc.exe
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\vbc.exe.config
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\vbc.rsp
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Antlr3.Runtime.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.Web.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Newtonsoft.Json.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Helpers.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Mvc.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Optimization.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Razor.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Razor.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\WebGrease.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Helpers.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Mvc.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Optimization.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.Razor.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Razor.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Newtonsoft.Json.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Antlr3.Runtime.pdb
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.AI.Web.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.csprojAssemblyReference.cache
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.csproj.CoreCompileInputs.cache
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.csproj.CopyComplete
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.dll
+C:\Users\exam\Desktop\ToDo\Today\Today\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.pdb
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\ApplicationInsights.config
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\PartialViewExample.dll.config
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\PartialViewExample.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\PartialViewExample.pdb
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\csc.exe
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\csc.exe.config
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\csc.rsp
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\csi.exe
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\csi.exe.config
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\csi.rsp
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.AppContext.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Console.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.Compression.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Claims.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.ValueTuple.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\vbc.exe
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\vbc.exe.config
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\vbc.rsp
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Antlr3.Runtime.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.Web.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Newtonsoft.Json.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Helpers.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Mvc.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Optimization.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Razor.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Razor.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\WebGrease.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Helpers.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Mvc.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Optimization.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.Razor.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Web.WebPages.Razor.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Newtonsoft.Json.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Antlr3.Runtime.pdb
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.AI.Web.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.csprojAssemblyReference.cache
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.csproj.CoreCompileInputs.cache
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.csproj.CopyComplete
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.dll
+C:\Users\labadmin\Desktop\New folder\Vikram\Vikram\Wed29th\MVC\PartialViewExample\PartialViewExample\obj\Debug\PartialViewExample.pdb

@@ -1,0 +1,13 @@
+c:\Vikram\Day4\Lambdas\bin\Debug\Lambdas.exe.config
+c:\Vikram\Day4\Lambdas\bin\Debug\Lambdas.exe
+c:\Vikram\Day4\Lambdas\bin\Debug\Lambdas.pdb
+c:\Vikram\Day4\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
+c:\Vikram\Day4\Lambdas\obj\Debug\Lambdas.exe
+c:\Vikram\Day4\Lambdas\obj\Debug\Lambdas.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\bin\Debug\Lambdas.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\bin\Debug\Lambdas.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\bin\Debug\Lambdas.pdb
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\obj\Debug\Lambdas.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\obj\Debug\Lambdas.exe
+C:\Users\lenovo\Desktop\Dot_Net\Day4\Lambdas\obj\Debug\Lambdas.pdb

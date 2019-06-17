@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\bin\Debug\InheritanceExamples.exe.config
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\bin\Debug\InheritanceExamples.exe
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\bin\Debug\InheritanceExamples.pdb
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\bin\Debug\AccessSpecifiers.dll
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\bin\Debug\AccessSpecifiers.pdb
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\obj\Debug\InheritanceExamples.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\obj\Debug\InheritanceExamples.exe
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\InheritanceExamples\obj\Debug\InheritanceExamples.pdb

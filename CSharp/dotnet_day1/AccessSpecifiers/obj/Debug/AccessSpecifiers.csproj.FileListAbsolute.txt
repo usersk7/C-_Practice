@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\AccessSpecifiers\bin\Debug\AccessSpecifiers.dll
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\AccessSpecifiers\obj\Debug\AccessSpecifiers.dll
+C:\Users\lenovo\Desktop\Dot_Net\dotnet_day1\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb
